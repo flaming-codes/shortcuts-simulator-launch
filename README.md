@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/11635736/165845954-35d547f4-a99c-446c-b311-0b8172a85062.png" /></p>
 
-<h3 align="center"><a align="center" href="https://www.icloud.com/shortcuts/66145786beef4bb98cd4ffa927f542c8" aria-label="Link to shortcut">Shortcuts Simulator Launch</a></h3>
+<h3 align="center"><a align="center" href="https://www.icloud.com/shortcuts/055bf1e227d94eca81c822e17ff17e26" aria-label="Link to shortcut">Shortcuts Simulator Launch</a></h3>
 <h5 align="center">Launch a simulator on macOS with two clicks</h5>
 
 <br/>
@@ -22,7 +22,7 @@ Why is there no code in this repo? That's b/c Apple doesn't allow a real export 
 
 ## Usage
 
-Simply import the Shortcut [from this iCloud-link](https://www.icloud.com/shortcuts/66145786beef4bb98cd4ffa927f542c8). That's it! You can also run the shortcut from the Menu Bar. The shortcut will check the simulators on your device, parse them into a list and then starts the one you selected.
+Simply import the Shortcut [from this iCloud-link](https://www.icloud.com/shortcuts/055bf1e227d94eca81c822e17ff17e26). That's it! You can also run the shortcut from the Menu Bar. The shortcut will check the simulators on your device, parse them into a list and then starts the one you selected.
 
 ## Privacy
 
