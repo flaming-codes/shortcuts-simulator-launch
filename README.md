@@ -22,7 +22,9 @@ Why is there no code in this repo? That's b/c Apple doesn't allow a real export 
 
 ## Usage
 
-Simply import the Shortcut [from this iCloud-link](https://www.icloud.com/shortcuts/055bf1e227d94eca81c822e17ff17e26). That's it! You can also run the shortcut from the Menu Bar. The shortcut will check the simulators on your device, parse them into a list and then starts the one you selected.
+Simply import the Shortcut [from this iCloud-link](https://www.icloud.com/shortcuts/055bf1e227d94eca81c822e17ff17e26). That's it! You can also run the shortcut from the Menu Bar. The Shortcut will check the simulators on your device, parse them into a list and then starts the one you selected.
+
+Of course you can edit/duplicat the Shortcut once imported. By adding a simple second Javascript execution you could, for instance, only show iPads or Watches.
 
 ## Privacy
 
