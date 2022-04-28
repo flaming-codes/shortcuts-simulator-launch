@@ -13,6 +13,8 @@
 
 This 'repo' contains the link to a completely editable **Shortcut** for macOS' **Shortcuts**-app. It allows you launch any simulator on your device w/o opening the terminal every time. This is super handy for my use case (testing web apps on various devices), so I thought it might help you, too!
 
+Why is there no code in this repo? That's b/c Apple doesn't allow a real export of Shortcuts, only links to their locations where they're stored.
+
 ## Prerequisites
 
 - macOS 12 or higher
@@ -20,13 +22,13 @@ This 'repo' contains the link to a completely editable **Shortcut** for macOS' *
 
 ## Usage
 
-Simply import the Shortcut [from this iCloud-link](https://www.icloud.com/shortcuts/66145786beef4bb98cd4ffa927f542c8). That's it! You can also run the shortcut from the Menu Bar.
+Simply import the Shortcut [from this iCloud-link](https://www.icloud.com/shortcuts/66145786beef4bb98cd4ffa927f542c8). That's it! You can also run the shortcut from the Menu Bar. The shortcut will check the simulators on your device, parse them into a list and then starts the one you selected.
 
 ## Privacy
 
 This automation uses JavaScript to parse the terminal's raw output as input. You don't need to run it as admin. No data other than the terminal's inital output of available simulators is used.
 
-### Screenshots
+## Screenshots
 
 | Description | Image |
 | --- | --- |
