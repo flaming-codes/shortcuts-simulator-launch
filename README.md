@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/11635736/165845954-35d547f4-a99c-446c-b311-0b8172a85062.png" /></p>
 
-<h3 align="center"><a align="center" href="https://www.icloud.com/shortcuts/f4074d7da1374ce583b5f7a57837492d" aria-label="Link to shortcut">Shortcuts Simulator Launch</a></h3>
+<h3 align="center"><a align="center" href="https://www.icloud.com/shortcuts/14430ea52e5640d6bf5b6caf48d4df4e" aria-label="Link to shortcut">Shortcuts Simulator Launch</a></h3>
 <h5 align="center">Launch a simulator on macOS with two clicks</h5>
 
 <br/>
@@ -23,7 +23,7 @@ Why is there no code in this repo? That's b/c Apple doesn't allow a real export 
 
 ## Usage
 
-Simply import the Shortcut [from this iCloud-link](https://www.icloud.com/shortcuts/f4074d7da1374ce583b5f7a57837492d). That's it! You can also run the shortcut from the Menu Bar. The Shortcut will check the simulators on your device, parse them into a list and then starts the one you selected.
+Simply import the Shortcut [from this iCloud-link](https://www.icloud.com/shortcuts/14430ea52e5640d6bf5b6caf48d4df4e). That's it! You can also run the shortcut from the Menu Bar. The Shortcut will check the simulators on your device, parse them into a list and then starts the one you selected.
 
 Of course you can edit/duplicat the Shortcut once imported. By adding a simple second Javascript execution you could, for instance, only show iPads or Watches.
 
